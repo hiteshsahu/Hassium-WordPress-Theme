@@ -1,0 +1,941 @@
+# Copyright (C) 2015 Themient.com
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hassium 1.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-06 03:45+0100\n"
+"PO-Revision-Date: 2015-09-06 04:00+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl_NL\n"
+"Last-Translator: \n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oeps! Deze pagina kon niet worden gevonden."
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Het lijkt er op dat wat je zocht niet op deze plek staat. Probeer een van de "
+"links of doorzoek de site."
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Meest gebruikte categorieën"
+
+#: 404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Probeer het in de maandarchieven. %1$s"
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Deze post is beveiligd met een wachtwoord. Voer het wachtwoord in om de post "
+"te kunnen bekijken."
+
+#: comments.php:26
+msgid "No Comments"
+msgstr "Nog geen reacties"
+
+#: comments.php:26
+msgid "One Comment"
+msgstr "Één reactie"
+
+#: comments.php:26
+msgid "% Comments"
+msgstr "% reacties"
+
+#: comments.php:51
+msgid "Add a Comment"
+msgstr "Voeg reactie toe"
+
+#: comments.php:53
+msgid "Add Comment"
+msgstr "Voeg reactie toe"
+
+#: comments.php:58 comments.php:59
+msgid "Name"
+msgstr "Naam"
+
+#: comments.php:60 comments.php:61
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:62 comments.php:63
+msgid "Website"
+msgstr "Website"
+
+#: functions.php:26
+msgid "Primary Menu"
+msgstr "Primair menu"
+
+#: functions.php:27
+msgid "Mobile Menu"
+msgstr "Mobiel menu"
+
+#: functions.php:57
+msgid "Main Sidebar"
+msgstr "Hoofdzijbalk"
+
+#: functions.php:318
+msgid "Home"
+msgstr "Home"
+
+#: functions.php:353
+msgid "First"
+msgstr "Eerste pagina"
+
+#: functions.php:355
+msgid "Previous"
+msgstr "Vorige pagina"
+
+#: functions.php:362
+msgid "Next"
+msgstr "Volgende pagina"
+
+#: functions.php:364
+msgid "Last"
+msgstr "Laatste pagina"
+
+#: functions.php:427 functions.php:459
+msgid " by "
+msgstr " door "
+
+#: functions.php:429 functions.php:461 functions.php:517 functions.php:570
+#: functions/widget-popularposts.php:171 functions/widget-recentposts.php:148
+msgid " in "
+msgstr " in "
+
+#: functions.php:431 functions.php:463 functions.php:519 functions.php:572
+#: functions/widget-popularposts.php:173 functions/widget-recentposts.php:150
+#, php-format
+msgid "View all posts in %s"
+msgstr "Bekijk alle posts in %s"
+
+#: functions.php:465
+msgid "Tagged: "
+msgstr "Tags: "
+
+#: functions.php:497 functions.php:550 inc/customizer.php:260
+msgid "Related Posts"
+msgstr "Gerelateerde posts"
+
+#: functions.php:595 functions.php:597
+msgid "%link"
+msgstr "%link"
+
+#: functions.php:595
+msgid "Previous Post"
+msgstr "Vorige post"
+
+#: functions.php:597
+msgid "Next Post"
+msgstr "Volgende post"
+
+#: functions.php:608
+msgid "About The Author"
+msgstr "Over de auteur"
+
+#: functions.php:638
+#, php-format
+msgid ""
+"<span class=\"fn\">%s</span><span class=\"commenter_is_author\">Author</span>"
+msgstr ""
+"<span class=\"fn\">%s</span><span class=\"commenter_is_author\">Auteur</span>"
+
+#: functions.php:640
+#, php-format
+msgid "<span class=\"fn\">%s</span>"
+msgstr "<span class=\"fn\">%s</span>"
+
+#: functions.php:646
+msgid "(Edit)"
+msgstr "(Bewerken)"
+
+#: functions.php:648
+msgid "Reply"
+msgstr "Reageer"
+
+#: functions.php:654
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie wordt beoordeeld."
+
+#: functions.php:676
+msgid "Hassium theme by <a href=\"http://hiteshsahu.com\">Hitesh Sahu</a>"
+msgstr ""
+"\"Hassium\" thema gemaakt door <a href=\"http://hiteshsahu.com\">Themient</a>"
+
+#: header.php:39 header.php:66
+msgid "Add Menu"
+msgstr "Menu toevoegen"
+
+#: header.php:41 header.php:68
+msgid "Go to Appearance => Menus and assign a Menu to this location."
+msgstr "Ga naar Weergave => Menu's en wijs een menu toe aan deze locatie."
+
+#: index.php:37
+msgid "&#8249; Previous"
+msgstr "Vorige pagina"
+
+#: index.php:38
+msgid "Next &#8250;"
+msgstr "Volgende post"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: searchform.php:3
+msgid "Search for"
+msgstr "Zoek op"
+
+#: searchform.php:4
+msgid "Search &#8230;"
+msgstr "Zoeken &#8230;"
+
+#: searchform.php:4
+msgid "Search for:"
+msgstr "Zoeken naar:"
+
+#: functions/widget-fblikebox.php:15
+msgid "Hassium: Facebook Like Box"
+msgstr "Hassium: Facebook Like Box"
+
+#: functions/widget-fblikebox.php:16
+msgid "Displays Facebook Like Box."
+msgstr "Laat Facebook Like Box zien"
+
+#: functions/widget-fblikebox.php:21
+msgid "Find us on Facebook!"
+msgstr "Bezoek ons op Facebook"
+
+#: functions/widget-fblikebox.php:34 functions/widget-login.php:44
+#: functions/widget-popularposts.php:40 functions/widget-recentposts.php:38
+#: functions/widget-socialicons.php:156
+msgid "Title:"
+msgstr "Titel:"
+
+#: functions/widget-fblikebox.php:38
+msgid "App Id"
+msgstr "App ID"
+
+#: functions/widget-fblikebox.php:41
+msgid ""
+"You must enter your App ID here, to get an App ID Go to <a target=\"_blank\" "
+"href=\"https://developers.facebook.com/\">FB Developer</a> and create FB "
+"app. Still need help? check this <a target=\"_blank\" href=\"http://premium."
+"wpmudev.org/forums/topic/guide-updated-ultimate-facebook-plugin-"
+"for-2014\">tutorial</a>."
+msgstr ""
+"Je moet hier je App ID invoeren, om een App ID te krijgen ga je naar <a "
+"target=\"_blank\" href=\"https://developers.facebook.com/\">FB Developer</a> "
+"en maak je een FB app. Nog steeds hulp nodig? Check deze <a target=\"_blank"
+"\" href=\"http://premium.wpmudev.org/forums/topic/guide-updated-ultimate-"
+"facebook-plugin-for-2014\">tutorial</a>."
+
+#: functions/widget-fblikebox.php:44
+msgid "Facebook Page URL"
+msgstr "Facebook pagina URL"
+
+#: functions/widget-fblikebox.php:46
+msgid ""
+"The absolute URL of your Facebook Page. e.g: https://www.facebook.com/"
+"hiteshsahu"
+msgstr ""
+"De basis-URL van je Facebook Pagina, bijvoorbeeld https://www.facebook.com/"
+"hiteshsahu"
+
+#: functions/widget-fblikebox.php:49
+msgid "Width"
+msgstr "Breedte"
+
+#: functions/widget-fblikebox.php:51
+msgid "The width of the widget in pixels. Minimum is 292."
+msgstr "De breedte van de widget in pixels. Minimum is 292."
+
+#: functions/widget-fblikebox.php:54
+msgid "Height"
+msgstr "Hoogte"
+
+#: functions/widget-fblikebox.php:56
+msgid ""
+"The height of the plugin in pixels. The default height varies based on "
+"number of faces to display, and whether the stream is displayed."
+msgstr ""
+"De hoogte van de plugin in pixels. De standaardhoogte varieert op basis van "
+"het aantal gezichten dat weergegeven moet worden en of de stream weergegeven "
+"wordt."
+
+#: functions/widget-fblikebox.php:59 inc/customizer.php:382
+msgid "Color Scheme"
+msgstr "Kleurenschema"
+
+#: functions/widget-fblikebox.php:67
+msgid "Show Friends' Faces"
+msgstr "Toon gezichten van vrienden"
+
+#: functions/widget-fblikebox.php:71
+msgid "Show Posts"
+msgstr "Toon alle posts"
+
+#: functions/widget-fblikebox.php:75
+msgid "Show Header"
+msgstr "Toon header"
+
+#: functions/widget-fblikebox.php:79
+msgid "Show Border"
+msgstr "Toon rand"
+
+#: functions/widget-login.php:16
+msgid "Hassium: Login Widget"
+msgstr "Hassium: Login Widget"
+
+#: functions/widget-login.php:17
+msgid "Display a login/register form on the sidebar."
+msgstr "Toon een login/registratie-formulier in de zijbalk."
+
+#: functions/widget-login.php:34 functions/widget-login.php:127
+msgid "Login"
+msgstr "Log in"
+
+#: functions/widget-login.php:51
+msgid "Show Avatar"
+msgstr "Geef avatar weer"
+
+#: functions/widget-login.php:58
+msgid "Show Logged in User name"
+msgstr "Geef gebruikersnaam van ingelogde gebruiker"
+
+#: functions/widget-login.php:65
+msgid "Show Dashboard Link"
+msgstr "Dashboard-link weergeven"
+
+#: functions/widget-login.php:72
+msgid "Show Profile Link"
+msgstr "Profiel-link weergeven"
+
+#: functions/widget-login.php:79
+msgid "Show Remember me"
+msgstr "Onthouden weergeven"
+
+#: functions/widget-login.php:86
+msgid "Show Register Link"
+msgstr "Registratielink weergeven"
+
+#: functions/widget-login.php:93
+msgid "Show Forgotten Password Link"
+msgstr "Wachtwoord vergeten link weergeven"
+
+#: functions/widget-login.php:132
+msgid "Welcome"
+msgstr "Welkom"
+
+#: functions/widget-login.php:150
+msgid "Enter both Username and Password"
+msgstr "Voer zowel gebruikersnaam als wachtwoord in"
+
+#: functions/widget-login.php:153
+msgid "Username is not registered"
+msgstr "Gebruikersnaam is niet geregistreerd"
+
+#: functions/widget-login.php:156
+msgid "Incorrect Password"
+msgstr "Onjuist wachtwoord"
+
+#: functions/widget-login.php:174
+msgid "Logged in as "
+msgstr "Ingelogd als "
+
+#: functions/widget-login.php:180
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: functions/widget-login.php:183
+msgid "Profile"
+msgstr "Profiel"
+
+#: functions/widget-login.php:185
+msgid "Logout"
+msgstr "Uitloggen"
+
+#: functions/widget-login.php:196
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: functions/widget-login.php:197
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: functions/widget-login.php:203
+msgid "Register"
+msgstr "Registreer"
+
+#: functions/widget-login.php:205
+msgid "Forgot Password?"
+msgstr "Wachtwoord vergeten?"
+
+#: functions/widget-login.php:238
+msgid "<strong>ERROR</strong>: Invalid username or incorrect password."
+msgstr ""
+"<strong>FOUT:</strong>: Ongeldige gebruikersnaam of onjuist wachtwoord."
+
+#: functions/widget-popularposts.php:15
+msgid "Hassium: Popular Posts"
+msgstr "Hassium: Populaire posts"
+
+#: functions/widget-popularposts.php:16
+msgid "Displays most Popular Posts with Thumbnail."
+msgstr "Geeft de meest populaire posts weer met thumbnail."
+
+#: functions/widget-popularposts.php:30
+msgid "Popular Posts"
+msgstr "Populaire posts"
+
+#: functions/widget-popularposts.php:45
+msgid "Popular limit (days), 0 for No-limit"
+msgstr "Populair limiet (dagen), 0 voor geen limiet"
+
+#: functions/widget-popularposts.php:51 functions/widget-recentposts.php:43
+msgid "Number of Posts to show"
+msgstr "Aantal weer te geven berichten"
+
+#: functions/widget-popularposts.php:58 functions/widget-recentposts.php:50
+msgid "Show Thumbnails"
+msgstr "Toon thumbnails"
+
+#: functions/widget-popularposts.php:65 functions/widget-recentposts.php:57
+msgid "Show post date"
+msgstr "Datum van post weergeven"
+
+#: functions/widget-popularposts.php:72 functions/widget-recentposts.php:64
+msgid "Show Category"
+msgstr "Categorie weergeven"
+
+#: functions/widget-popularposts.php:79 functions/widget-recentposts.php:71
+msgid "Show excerpt"
+msgstr "Toon uittreksel"
+
+#: functions/widget-popularposts.php:84 functions/widget-recentposts.php:76
+msgid "Excerpt Length:"
+msgstr "Lengte van uittreksel:"
+
+#: functions/widget-recentposts.php:15
+msgid "Hassium: Recent Posts"
+msgstr "Hassium: Recente Posts"
+
+#: functions/widget-recentposts.php:16
+msgid "Display the most recent posts from all categories."
+msgstr "Geeft de meest recente posts uit alle categorieën weer."
+
+#: functions/widget-recentposts.php:29 functions/widget-recentposts.php:106
+msgid "Recent Posts"
+msgstr "Recente posts"
+
+#: functions/widget-socialicons.php:50
+msgid "Facebook URI"
+msgstr "Facebook URI"
+
+#: functions/widget-socialicons.php:54
+msgid "Twitter URI"
+msgstr "Twitter URI"
+
+#: functions/widget-socialicons.php:58
+msgid "Google+ URI"
+msgstr "Google+ URI"
+
+#: functions/widget-socialicons.php:62
+msgid "YouTube URI"
+msgstr "YouTube URI"
+
+#: functions/widget-socialicons.php:66
+msgid "RSS URI"
+msgstr "RSS URI"
+
+#: functions/widget-socialicons.php:70
+msgid "Pinterest URI"
+msgstr "Pinterest URI"
+
+#: functions/widget-socialicons.php:74
+msgid "Linkedin URI"
+msgstr "Linkedin URI"
+
+#: functions/widget-socialicons.php:78
+msgid "StumbleUpon URI"
+msgstr "StumbleUpon URI"
+
+#: functions/widget-socialicons.php:82
+msgid "Reddit URI"
+msgstr "Reddit URI"
+
+#: functions/widget-socialicons.php:86
+msgid "Tumblr URI"
+msgstr "Tumblr URI"
+
+#: functions/widget-socialicons.php:90
+msgid "Instagram URI"
+msgstr "Instagram URI"
+
+#: functions/widget-socialicons.php:94
+msgid "Vimeo URI"
+msgstr "Vimeo URI"
+
+#: functions/widget-socialicons.php:98
+msgid "FourSquare URI"
+msgstr "FourSquare URI"
+
+#: functions/widget-socialicons.php:102
+msgid "Soundcloud URI"
+msgstr "Soundcloud URI"
+
+#: functions/widget-socialicons.php:106
+msgid "GitHub URI"
+msgstr "GitHub URI"
+
+#: functions/widget-socialicons.php:110
+msgid "Flickr URI"
+msgstr "Flickr URI"
+
+#: functions/widget-socialicons.php:114
+msgid "Skype URI"
+msgstr "Skype URI"
+
+#: functions/widget-socialicons.php:119
+msgid "Behance URI"
+msgstr "Behance URI"
+
+#: functions/widget-socialicons.php:123
+msgid "Dribbble URI"
+msgstr "Dribbble URI"
+
+#: functions/widget-socialicons.php:127
+msgid "Dropbox URI"
+msgstr "Dropbox URI"
+
+#: functions/widget-socialicons.php:131
+msgid "Email URI"
+msgstr "E-mail URI"
+
+#: functions/widget-socialicons.php:138
+msgid "Show social profile icons."
+msgstr "Toon social profiel iconen."
+
+#: functions/widget-socialicons.php:146
+msgid "Hassium: Social Icons"
+msgstr "Hassium: Sociale Iconen"
+
+#: functions/widget-socialicons.php:158
+msgid "Open links in a new tab?"
+msgstr "Links in een nieuw tabblad openen?"
+
+#: inc/customizer.php:20
+msgid "General Settings"
+msgstr "Algemene Instellingen"
+
+#: inc/customizer.php:36
+msgid "Custom Favicon"
+msgstr "Aangepaste Favicon"
+
+#: inc/customizer.php:84
+msgid "Copyright Text"
+msgstr "Copyright Tekst"
+
+#: inc/customizer.php:106
+msgid "Logo Image"
+msgstr "Logo afbeelding"
+
+#: inc/customizer.php:116
+msgid "Archives Settings"
+msgstr "Archiefpagina Instellingen"
+
+#: inc/customizer.php:183
+msgid "Archives Meta"
+msgstr "Archieven Meta"
+
+#: inc/customizer.php:215
+msgid "Excerpt Length"
+msgstr "Uittreksel lengte"
+
+#: inc/customizer.php:226
+msgid "Article Settings"
+msgstr "Artikelinstellingen"
+
+#: inc/customizer.php:242
+msgid "Post Meta"
+msgstr "Post Meta"
+
+#: inc/customizer.php:275
+msgid "Related Posts Number"
+msgstr "Aantal gerelateerde posts"
+
+#: inc/customizer.php:293
+msgid "Related Posts Query"
+msgstr "Gerelateerde posts query"
+
+#: inc/customizer.php:296
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/customizer.php:297
+msgid "Categories"
+msgstr "Categorieën"
+
+#: inc/customizer.php:314
+msgid "Next/Prev Article"
+msgstr "Volgende/Vorige artikel"
+
+#: inc/customizer.php:332
+msgid "Post Author Box"
+msgstr "Auteur Box"
+
+#: inc/customizer.php:342
+msgid "Design & Layout"
+msgstr "Vormgeving en opmaak"
+
+#: inc/customizer.php:359
+msgid "Sidebar Settings"
+msgstr "Sidebar instellingen"
+
+#: inc/customizer.php:408
+msgid "Background settings"
+msgstr "Achtergrondinstellingen"
+
+#: inc/customizer.php:411
+msgid "Color"
+msgstr "Kleur"
+
+#: inc/customizer.php:412
+msgid "Pattern"
+msgstr "Patroon"
+
+#: inc/customizer.php:413
+msgid "Custom image"
+msgstr "Eigen afbeelding..."
+
+#: inc/customizer.php:432
+msgid "Background color"
+msgstr "Achtergrondkleur"
+
+#: inc/customizer.php:452
+msgid "Background pattern"
+msgstr "Achtergrondpatroon"
+
+#: inc/customizer.php:513
+msgid "Custom background image"
+msgstr "Aangepaste achtergrondafbeelding"
+
+#: inc/customizer.php:530 inc/customizer.php:533 inc/customizer.php:682
+msgid "Repeat"
+msgstr "Herhaal"
+
+#: inc/customizer.php:534 inc/customizer.php:683
+msgid "Repeat-x"
+msgstr "Herhaal-x"
+
+#: inc/customizer.php:535 inc/customizer.php:684
+msgid "Repeat-y"
+msgstr "Herhaal-y"
+
+#: inc/customizer.php:536 inc/customizer.php:685
+msgid "No-repeat"
+msgstr "Geen-herhaling"
+
+#: inc/customizer.php:551
+msgid "Attachment"
+msgstr "Bijlage"
+
+#: inc/customizer.php:554 inc/customizer.php:698
+msgid "Scroll"
+msgstr "Scroll"
+
+#: inc/customizer.php:555 inc/customizer.php:699
+msgid "Fixed"
+msgstr "Vast"
+
+#: inc/customizer.php:570
+msgid "Position"
+msgstr "Positie"
+
+#: inc/customizer.php:573 inc/customizer.php:712
+msgid "Left top"
+msgstr "Linksboven"
+
+#: inc/customizer.php:574 inc/customizer.php:713
+msgid "Left center"
+msgstr "Linksmidden"
+
+#: inc/customizer.php:575 inc/customizer.php:714
+msgid "Left bottom"
+msgstr "Linksonder"
+
+#: inc/customizer.php:576 inc/customizer.php:715
+msgid "Right top"
+msgstr "Rechtsboven"
+
+#: inc/customizer.php:577 inc/customizer.php:716
+msgid "Right center"
+msgstr "Rechtsmidden"
+
+#: inc/customizer.php:578 inc/customizer.php:717
+msgid "Right bottom"
+msgstr "Rechtsonder"
+
+#: inc/customizer.php:579 inc/customizer.php:718
+msgid "Center top"
+msgstr "Middenboven"
+
+#: inc/customizer.php:580 inc/customizer.php:719
+msgid "Center center"
+msgstr "Centrum"
+
+#: inc/customizer.php:581 inc/customizer.php:720
+msgid "Center bottom"
+msgstr "Middenonder"
+
+#: inc/customizer.php:599
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: inc/template-tags.php:23
+msgid "year"
+msgstr "jaar"
+
+#: inc/template-tags.php:23
+msgid "years"
+msgstr "jaren"
+
+#: inc/template-tags.php:24
+msgid "month"
+msgstr "maand"
+
+#: inc/template-tags.php:24
+msgid "months"
+msgstr "maanden"
+
+#: inc/template-tags.php:25
+msgid "week"
+msgstr "week"
+
+#: inc/template-tags.php:25
+msgid "weeks"
+msgstr "weken"
+
+#: inc/template-tags.php:26
+msgid "day"
+msgstr "dag"
+
+#: inc/template-tags.php:26
+msgid "days"
+msgstr "dagen"
+
+#: inc/template-tags.php:27
+msgid "hour"
+msgstr "uur"
+
+#: inc/template-tags.php:27
+msgid "hours"
+msgstr "uren"
+
+#: inc/template-tags.php:28
+msgid "minute"
+msgstr "minuut"
+
+#: inc/template-tags.php:28
+msgid "minutes"
+msgstr "minuten"
+
+#: inc/template-tags.php:29
+msgid "second"
+msgstr "seconde"
+
+#: inc/template-tags.php:29 inc/template-tags.php:62
+msgid "seconds"
+msgstr "seconden"
+
+#: inc/template-tags.php:46
+msgid "sometime"
+msgstr "vroegere"
+
+#: inc/template-tags.php:65
+msgid " ago"
+msgstr " geleden"
+
+#: inc/template-tags.php:85
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:102
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:118 inc/template-tags.php:132
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:130
+msgid ", "
+msgstr " , "
+
+#: inc/template-tags.php:166
+#, php-format
+msgid "Category: %s"
+msgstr "Categorie: %s"
+
+#: inc/template-tags.php:168
+#, php-format
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:170
+#, php-format
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#: inc/template-tags.php:172
+#, php-format
+msgid "Year: %s"
+msgstr "Jaar: %s"
+
+#: inc/template-tags.php:172
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y [datumnotatie jaarlijkse archieven]"
+
+#: inc/template-tags.php:174
+#, php-format
+msgid "Month: %s"
+msgstr "Maand: %s"
+
+#: inc/template-tags.php:174
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y [datumnotatie maandelijkse archieven]"
+
+#: inc/template-tags.php:176
+#, php-format
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: inc/template-tags.php:176
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y [datumnotatie maandelijkse archieven]"
+
+#: inc/template-tags.php:179
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Naast [ postnotatie archieftitel ]"
+
+#: inc/template-tags.php:181
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Gallerijen [ postnotatie archieftitel ]"
+
+#: inc/template-tags.php:183
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Afbeeldingen [ postnotatie archieftitel ]"
+
+#: inc/template-tags.php:185
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video's [ postnotatie archieftitel ]"
+
+#: inc/template-tags.php:187
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Quotes [ postnotatie archieftitel ]"
+
+#: inc/template-tags.php:189
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links [ postnotatie archieftitel ]"
+
+#: inc/template-tags.php:191
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statussen [ postnotatie archieftitel ]"
+
+#: inc/template-tags.php:193
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio [ postnotatie archieftitel ]"
+
+#: inc/template-tags.php:195
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats [ postnotatie archieftitel ]"
+
+#: inc/template-tags.php:198
+#, php-format
+msgid "Archives: %s"
+msgstr "Archieven: %s"
+
+#: inc/template-tags.php:202
+#, php-format
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:204
+msgid "Archives"
+msgstr "Archieven"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste post te publiceren?  <a href=“%1$s”>Begin hier</a>."
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, geen zoekresultaten gevonden. Probeer het nog eens met andere "
+"zoekwoorden."
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Het lijkt erop dat we niet kunnen vinden wat je zoekt. Wil je opnieuw zoeken?"
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:21
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: template-parts/content.php:27
+msgid "Edit"
+msgstr "Bewerken"
+
+#: template-parts/content.php:31
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: template-parts/content.php:46
+msgid "View article..."
+msgstr "Lees artikel..."

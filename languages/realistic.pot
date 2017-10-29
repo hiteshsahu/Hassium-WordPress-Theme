@@ -1,0 +1,919 @@
+# Copyright (C) 2015 Themient.com
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hassium 1.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-06 03:36+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:26
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:26
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:26
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:51
+msgid "Add a Comment"
+msgstr ""
+
+#: comments.php:53
+msgid "Add Comment"
+msgstr ""
+
+#: comments.php:58 comments.php:59
+msgid "Name"
+msgstr ""
+
+#: comments.php:60 comments.php:61
+msgid "Email"
+msgstr ""
+
+#: comments.php:62 comments.php:63
+msgid "Website"
+msgstr ""
+
+#: functions.php:26
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:27
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:57
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:318
+msgid "Home"
+msgstr ""
+
+#: functions.php:353
+msgid "First"
+msgstr ""
+
+#: functions.php:355
+msgid "Previous"
+msgstr ""
+
+#: functions.php:362
+msgid "Next"
+msgstr ""
+
+#: functions.php:364
+msgid "Last"
+msgstr ""
+
+#: functions.php:427 functions.php:459
+msgid " by "
+msgstr ""
+
+#: functions.php:429 functions.php:461 functions.php:517 functions.php:570
+#: functions/widget-popularposts.php:171 functions/widget-recentposts.php:148
+msgid " in "
+msgstr ""
+
+#: functions.php:431 functions.php:463 functions.php:519 functions.php:572
+#: functions/widget-popularposts.php:173 functions/widget-recentposts.php:150
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: functions.php:465
+msgid "Tagged: "
+msgstr ""
+
+#: functions.php:497 functions.php:550 inc/customizer.php:260
+msgid "Related Posts"
+msgstr ""
+
+#: functions.php:595 functions.php:597
+msgid "%link"
+msgstr ""
+
+#: functions.php:595
+msgid "Previous Post"
+msgstr ""
+
+#: functions.php:597
+msgid "Next Post"
+msgstr ""
+
+#: functions.php:608
+msgid "About The Author"
+msgstr ""
+
+#: functions.php:638
+#, php-format
+msgid ""
+"<span class=\"fn\">%s</span><span class=\"commenter_is_author\">Author</span>"
+msgstr ""
+
+#: functions.php:640
+#, php-format
+msgid "<span class=\"fn\">%s</span>"
+msgstr ""
+
+#: functions.php:646
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:648
+msgid "Reply"
+msgstr ""
+
+#: functions.php:654
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:676
+msgid "Hassium theme by <a href=\"http://hiteshsahu.com\">Hitesh Sahu</a>"
+msgstr ""
+
+#: header.php:39 header.php:66
+msgid "Add Menu"
+msgstr ""
+
+#: header.php:41 header.php:68
+msgid "Go to Appearance => Menus and assign a Menu to this location."
+msgstr ""
+
+#: index.php:37
+msgid "&#8249; Previous"
+msgstr ""
+
+#: index.php:38
+msgid "Next &#8250;"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search &#8230;"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search for:"
+msgstr ""
+
+#: functions/widget-fblikebox.php:15
+msgid "Hassium: Facebook Like Box"
+msgstr ""
+
+#: functions/widget-fblikebox.php:16
+msgid "Displays Facebook Like Box."
+msgstr ""
+
+#: functions/widget-fblikebox.php:21
+msgid "Find us on Facebook!"
+msgstr ""
+
+#: functions/widget-fblikebox.php:34 functions/widget-login.php:44
+#: functions/widget-popularposts.php:40 functions/widget-recentposts.php:38
+#: functions/widget-socialicons.php:156
+msgid "Title:"
+msgstr ""
+
+#: functions/widget-fblikebox.php:38
+msgid "App Id"
+msgstr ""
+
+#: functions/widget-fblikebox.php:41
+msgid ""
+"You must enter your App ID here, to get an App ID Go to <a target=\"_blank\" "
+"href=\"https://developers.facebook.com/\">FB Developer</a> and create FB "
+"app. Still need help? check this <a target=\"_blank\" href=\"http://premium."
+"wpmudev.org/forums/topic/guide-updated-ultimate-facebook-plugin-"
+"for-2014\">tutorial</a>."
+msgstr ""
+
+#: functions/widget-fblikebox.php:44
+msgid "Facebook Page URL"
+msgstr ""
+
+#: functions/widget-fblikebox.php:46
+msgid ""
+"The absolute URL of your Facebook Page. e.g: https://www.facebook.com/"
+"hiteshsahu"
+msgstr ""
+
+#: functions/widget-fblikebox.php:49
+msgid "Width"
+msgstr ""
+
+#: functions/widget-fblikebox.php:51
+msgid "The width of the widget in pixels. Minimum is 292."
+msgstr ""
+
+#: functions/widget-fblikebox.php:54
+msgid "Height"
+msgstr ""
+
+#: functions/widget-fblikebox.php:56
+msgid ""
+"The height of the plugin in pixels. The default height varies based on "
+"number of faces to display, and whether the stream is displayed."
+msgstr ""
+
+#: functions/widget-fblikebox.php:59 inc/customizer.php:382
+msgid "Color Scheme"
+msgstr ""
+
+#: functions/widget-fblikebox.php:67
+msgid "Show Friends' Faces"
+msgstr ""
+
+#: functions/widget-fblikebox.php:71
+msgid "Show Posts"
+msgstr ""
+
+#: functions/widget-fblikebox.php:75
+msgid "Show Header"
+msgstr ""
+
+#: functions/widget-fblikebox.php:79
+msgid "Show Border"
+msgstr ""
+
+#: functions/widget-login.php:16
+msgid "Hassium: Login Widget"
+msgstr ""
+
+#: functions/widget-login.php:17
+msgid "Display a login/register form on the sidebar."
+msgstr ""
+
+#: functions/widget-login.php:34 functions/widget-login.php:127
+msgid "Login"
+msgstr ""
+
+#: functions/widget-login.php:51
+msgid "Show Avatar"
+msgstr ""
+
+#: functions/widget-login.php:58
+msgid "Show Logged in User name"
+msgstr ""
+
+#: functions/widget-login.php:65
+msgid "Show Dashboard Link"
+msgstr ""
+
+#: functions/widget-login.php:72
+msgid "Show Profile Link"
+msgstr ""
+
+#: functions/widget-login.php:79
+msgid "Show Remember me"
+msgstr ""
+
+#: functions/widget-login.php:86
+msgid "Show Register Link"
+msgstr ""
+
+#: functions/widget-login.php:93
+msgid "Show Forgotten Password Link"
+msgstr ""
+
+#: functions/widget-login.php:132
+msgid "Welcome"
+msgstr ""
+
+#: functions/widget-login.php:150
+msgid "Enter both Username and Password"
+msgstr ""
+
+#: functions/widget-login.php:153
+msgid "Username is not registered"
+msgstr ""
+
+#: functions/widget-login.php:156
+msgid "Incorrect Password"
+msgstr ""
+
+#: functions/widget-login.php:174
+msgid "Logged in as "
+msgstr ""
+
+#: functions/widget-login.php:180
+msgid "Dashboard"
+msgstr ""
+
+#: functions/widget-login.php:183
+msgid "Profile"
+msgstr ""
+
+#: functions/widget-login.php:185
+msgid "Logout"
+msgstr ""
+
+#: functions/widget-login.php:196
+msgid "Username"
+msgstr ""
+
+#: functions/widget-login.php:197
+msgid "Password"
+msgstr ""
+
+#: functions/widget-login.php:203
+msgid "Register"
+msgstr ""
+
+#: functions/widget-login.php:205
+msgid "Forgot Password?"
+msgstr ""
+
+#: functions/widget-login.php:238
+msgid "<strong>ERROR</strong>: Invalid username or incorrect password."
+msgstr ""
+
+#: functions/widget-popularposts.php:15
+msgid "Hassium: Popular Posts"
+msgstr ""
+
+#: functions/widget-popularposts.php:16
+msgid "Displays most Popular Posts with Thumbnail."
+msgstr ""
+
+#: functions/widget-popularposts.php:30
+msgid "Popular Posts"
+msgstr ""
+
+#: functions/widget-popularposts.php:45
+msgid "Popular limit (days), 0 for No-limit"
+msgstr ""
+
+#: functions/widget-popularposts.php:51 functions/widget-recentposts.php:43
+msgid "Number of Posts to show"
+msgstr ""
+
+#: functions/widget-popularposts.php:58 functions/widget-recentposts.php:50
+msgid "Show Thumbnails"
+msgstr ""
+
+#: functions/widget-popularposts.php:65 functions/widget-recentposts.php:57
+msgid "Show post date"
+msgstr ""
+
+#: functions/widget-popularposts.php:72 functions/widget-recentposts.php:64
+msgid "Show Category"
+msgstr ""
+
+#: functions/widget-popularposts.php:79 functions/widget-recentposts.php:71
+msgid "Show excerpt"
+msgstr ""
+
+#: functions/widget-popularposts.php:84 functions/widget-recentposts.php:76
+msgid "Excerpt Length:"
+msgstr ""
+
+#: functions/widget-recentposts.php:15
+msgid "Hassium: Recent Posts"
+msgstr ""
+
+#: functions/widget-recentposts.php:16
+msgid "Display the most recent posts from all categories."
+msgstr ""
+
+#: functions/widget-recentposts.php:29 functions/widget-recentposts.php:106
+msgid "Recent Posts"
+msgstr ""
+
+#: functions/widget-socialicons.php:50
+msgid "Facebook URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:54
+msgid "Twitter URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:58
+msgid "Google+ URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:62
+msgid "YouTube URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:66
+msgid "RSS URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:70
+msgid "Pinterest URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:74
+msgid "Linkedin URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:78
+msgid "StumbleUpon URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:82
+msgid "Reddit URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:86
+msgid "Tumblr URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:90
+msgid "Instagram URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:94
+msgid "Vimeo URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:98
+msgid "FourSquare URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:102
+msgid "Soundcloud URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:106
+msgid "GitHub URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:110
+msgid "Flickr URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:114
+msgid "Skype URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:119
+msgid "Behance URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:123
+msgid "Dribbble URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:127
+msgid "Dropbox URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:131
+msgid "Email URI"
+msgstr ""
+
+#: functions/widget-socialicons.php:138
+msgid "Show social profile icons."
+msgstr ""
+
+#: functions/widget-socialicons.php:146
+msgid "Hassium: Social Icons"
+msgstr ""
+
+#: functions/widget-socialicons.php:158
+msgid "Open links in a new tab?"
+msgstr ""
+
+#: inc/customizer.php:20
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid "Custom Favicon"
+msgstr ""
+
+#: inc/customizer.php:84
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Logo Image"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Archives Settings"
+msgstr ""
+
+#: inc/customizer.php:183
+msgid "Archives Meta"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "Article Settings"
+msgstr ""
+
+#: inc/customizer.php:242
+msgid "Post Meta"
+msgstr ""
+
+#: inc/customizer.php:275
+msgid "Related Posts Number"
+msgstr ""
+
+#: inc/customizer.php:293
+msgid "Related Posts Query"
+msgstr ""
+
+#: inc/customizer.php:296
+msgid "Tags"
+msgstr ""
+
+#: inc/customizer.php:297
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer.php:314
+msgid "Next/Prev Article"
+msgstr ""
+
+#: inc/customizer.php:332
+msgid "Post Author Box"
+msgstr ""
+
+#: inc/customizer.php:342
+msgid "Design & Layout"
+msgstr ""
+
+#: inc/customizer.php:359
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/customizer.php:408
+msgid "Background settings"
+msgstr ""
+
+#: inc/customizer.php:411
+msgid "Color"
+msgstr ""
+
+#: inc/customizer.php:412
+msgid "Pattern"
+msgstr ""
+
+#: inc/customizer.php:413
+msgid "Custom image"
+msgstr ""
+
+#: inc/customizer.php:432
+msgid "Background color"
+msgstr ""
+
+#: inc/customizer.php:452
+msgid "Background pattern"
+msgstr ""
+
+#: inc/customizer.php:513
+msgid "Custom background image"
+msgstr ""
+
+#: inc/customizer.php:530 inc/customizer.php:533 inc/customizer.php:682
+msgid "Repeat"
+msgstr ""
+
+#: inc/customizer.php:534 inc/customizer.php:683
+msgid "Repeat-x"
+msgstr ""
+
+#: inc/customizer.php:535 inc/customizer.php:684
+msgid "Repeat-y"
+msgstr ""
+
+#: inc/customizer.php:536 inc/customizer.php:685
+msgid "No-repeat"
+msgstr ""
+
+#: inc/customizer.php:551
+msgid "Attachment"
+msgstr ""
+
+#: inc/customizer.php:554 inc/customizer.php:698
+msgid "Scroll"
+msgstr ""
+
+#: inc/customizer.php:555 inc/customizer.php:699
+msgid "Fixed"
+msgstr ""
+
+#: inc/customizer.php:570
+msgid "Position"
+msgstr ""
+
+#: inc/customizer.php:573 inc/customizer.php:712
+msgid "Left top"
+msgstr ""
+
+#: inc/customizer.php:574 inc/customizer.php:713
+msgid "Left center"
+msgstr ""
+
+#: inc/customizer.php:575 inc/customizer.php:714
+msgid "Left bottom"
+msgstr ""
+
+#: inc/customizer.php:576 inc/customizer.php:715
+msgid "Right top"
+msgstr ""
+
+#: inc/customizer.php:577 inc/customizer.php:716
+msgid "Right center"
+msgstr ""
+
+#: inc/customizer.php:578 inc/customizer.php:717
+msgid "Right bottom"
+msgstr ""
+
+#: inc/customizer.php:579 inc/customizer.php:718
+msgid "Center top"
+msgstr ""
+
+#: inc/customizer.php:580 inc/customizer.php:719
+msgid "Center center"
+msgstr ""
+
+#: inc/customizer.php:581 inc/customizer.php:720
+msgid "Center bottom"
+msgstr ""
+
+#: inc/customizer.php:599
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "year"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "years"
+msgstr ""
+
+#: inc/template-tags.php:24
+msgid "month"
+msgstr ""
+
+#: inc/template-tags.php:24
+msgid "months"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "week"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "weeks"
+msgstr ""
+
+#: inc/template-tags.php:26
+msgid "day"
+msgstr ""
+
+#: inc/template-tags.php:26
+msgid "days"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "hour"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "hours"
+msgstr ""
+
+#: inc/template-tags.php:28
+msgid "minute"
+msgstr ""
+
+#: inc/template-tags.php:28
+msgid "minutes"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid "second"
+msgstr ""
+
+#: inc/template-tags.php:29 inc/template-tags.php:62
+msgid "seconds"
+msgstr ""
+
+#: inc/template-tags.php:46
+msgid "sometime"
+msgstr ""
+
+#: inc/template-tags.php:65
+msgid " ago"
+msgstr ""
+
+#: inc/template-tags.php:85
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:102
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:118 inc/template-tags.php:132
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:130
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:166
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:168
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:170
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:172
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:172
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:174
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:174
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:176
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:176
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:179
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:181
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:183
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:185
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:187
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:189
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:191
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:193
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:195
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:198
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:202
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:204
+msgid "Archives"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:21
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:27
+msgid "Edit"
+msgstr ""
+
+#: template-parts/content.php:31
+msgid "Delete"
+msgstr ""
+
+#: template-parts/content.php:46
+msgid "View article..."
+msgstr ""

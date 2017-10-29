@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>HiteshSahu - Blog</title>
+	<meta name="description" content="Tech blog" />
+	<meta name="keywords" content="clipPath, svg, effect, layout, expansion, images, grid, polygon" />
+	<meta name="author" content="Hitesh Sahu" />
+	
+	 <!-- Chrome, Firefox OS and Opera theme color-->
+     <meta name="theme-color" content="#7b1fa2 ">
+  
+      <!--Change the status bar appearance in iOS devices-->
+      <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  
+	
+	<link rel="shortcut icon" href="favicon.ico">
+	<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.3.0/css/font-awesome.min.css" />
+	
+
+	<link rel="stylesheet" type="text/css" href="css/demo.css" />
+	<link rel="stylesheet" type="text/css" href="css/card.css" />
+	<link rel="stylesheet" type="text/css" href="css/pattern.css" />
+	
+	
+	
+	<!-- icon in the highest resolution, Chrome and Opera uses icon.png, which is scaled to the necessary size by the device. -->
+  <link rel="icon" sizes="192x192" href="img/h_192.png">
+
+  <!-- reuse same icon for Safari and add more supported size for other iOS devices-->
+  <link rel="apple-touch-icon" href="img/_192.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="img/h_70.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="img/h_96.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="img/h_144.png">
+
+  <!-- multiple icons for IE -->
+  <meta name="msapplication-square70x70logo" content="img/h_70.png">
+  <meta name="msapplication-square150x150logo" content="img/h_144.png">
+  <meta name="msapplication-wide310x150logo" content="img/h_192.png">
+  
+    <!-- i -->
+  <link rel="apple-touch-startup-image" href="img/h_192.png">
+
+  <!-- Font Awesome CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+ 
+   <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.1/css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection">
+  
+  <link href="css/animate.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+	
+	<!--[if IE]>
+	  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<script>
+	if (navigator.userAgent.toLowerCase().indexOf('firefox') > -1) {
+		var root = document.getElementsByTagName('html')[0];
+		root.setAttribute('class', 'ff');
+	};
+	</script>
+</head>
+<body class= "grey darken-3">
+	 
+<div class="navbar-fixed">
+  <nav class="grey darken-4 white-text" role="navigation">
+    <div class="nav-wrapper container">
+      <a id="logo-container" href="#" class="brand-logo white-text">Hitesh Sahu</a>
+      <ul class="right hide-on-med-and-down">
+        <li class="active"><a href="#" class ="white-text" ><i class="material-icons left white-text">info</i>About</a></li>
+		<li><a href="https://rainandsea.wordpress.com/" class ="white-text" target="_blank"><i class="material-icons left white-text">comment</i>Blog</a></li>
+		<li><a href="#" class ="white-text"><i class="fa fa-paint-brush left white-text" aria-hidden="true"></i>Art</a></li>
+      </ul>
+
+      <a href="#" data-activates="nav-mobile" class="button-collapse white-text"><i class="material-icons">menu</i></a>
+    </div>
+  </nav>
+ </div>
+   
+   <ul id="nav-mobile" class="side-nav">
+	    <li><div class="userView">
+      <div class="background">
+        <img src="http://materializecss.com/images/office.jpg">
+        </div>
+       <a href="#!user"><img class="circle" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAgrAAAAJGU3ZTMzNTcxLTMxMDUtNDUyMi04NmI0LWVlOTA4NTIzOGFlMw.jpg"></a>
+       <a href="#!name"><span class="white-text name">Hitesh Sahu</span></a>
+       <a href="mailto:hiteshkumarsahu1990@gmail.com?Subject=Hello%20again"><span class="white-text email">hiteshkumarsahu1990@gmail.com</span></a>
+      </div></li>
+        <li class="active"><a href="#" class ="grey darken-4-text"><i class="material-icons left grey darken-4-text">info</i>About</a></li>
+		 <li><a href="https://rainandsea.wordpress.com/" class ="grey darken-4-text" target="_blank"><i class="material-icons left grey darken-4-text">comment</i>Blog</a></li>
+		 <li><a href="#" class ="grey darken-4-text"><i class="fa fa-paint-brush left grey darken-4-text" aria-hidden="true"></i>Art</a></li>
+      </ul>
+
+	  
+ <div class="progress" id = "loading">
+      <div class="indeterminate"></div>
+  </div>
+  
+   <div class ="container valign-wrapper">
+    <ul class="center-align">
+      <li>
+	 
+	    <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+        <img class="materialboxed responsive-img center-align  center" width="80%" src="img/art/a.jpg"> 
+        <br> <br>
+      </li>
+      <li>
+	    <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+        <img class="materialboxed" width="80%" src="img/art/b.jpg"> <!-- random image -->
+        <br> <br>
+      </li>
+      <li>
+	  
+	    <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+        <img class="materialboxed" width="650" src="img/art/c.jpg"> <!-- random image -->
+         <br> <br>
+      </li>
+      <li>
+	   <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+       <img   class="materialboxed" width="650" src="img/art/d.jpg"> <!-- random image --> 
+	    <br> <br>
+      </li>
+	
+	   <li>
+	    <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+        <img  class="materialboxed" width="650" src="img/art/e.jpg"> <!-- random image -->
+        <br> <br>
+      </li>
+	  
+	   <li>
+	    <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+        <img class="materialboxed" width="650" src="img/art/f.jpg"> <!-- random image -->
+       <br> <br>
+      </li>
+    </ul>
+  </div>
+      
+  
+    <footer class="page-footer grey darken-4">
+  
+      <div class="row">
+        <div class="col s12">
+          <h5 class="white-text">Get in touch</h5>
+          <p class="grey-text text-lighten-4">Social Handles</p>
+		   
+          </div>  
+		  
+
+        <div class="row center">	
+
+          <div class="col s1"> 
+          <a class="tooltipped white-text" data-position="bottom" data-delay="50" data-tooltip="GitHub" href=https://github.com/hiteshsahu 
+		  target="_blank" >
+          <i class="fa fa-github fa-2x" aria-hidden="true"></i></a> 
+          </div>  
+		
+	     <div class="col s1"> 	  
+		 <a href=https://www.linkedin.com/in/hitesh-sahu-99639040 class=" tooltipped white-text" data-position="bottom" data-delay="50" data-tooltip="Linkedin" target="_blank" >
+		 <i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a> 
+		 </div> 
+	
+         <div class="col s1"> 	
+		  <a href=http://stackoverflow.com/users/2252113/hitesh-sahu class=" tooltipped white-text" data-position="bottom" data-delay="50" data-tooltip="StackOverflow"  target="_blank" >  
+		  <i class="fa fa-stack-overflow fa-2x" aria-hidden="true"></i></a> 
+		  </div> 
+		 
+		 <div class="col s1"> 
+		 <a href=https://codepen.io/hiteshsahu/ class=" tooltipped white-text" data-position="bottom" data-delay="50" data-tooltip="Codepen"  
+		 target="_blank" >
+		 <i class="fa fa-codepen fa-2x" aria-hidden="true"></i></a> 	
+        </div> 	
+
+         <div class="col s1"> 
+		 <a href=https://soundcloud.com/hitesh-sahu class=" tooltipped white-text" data-position="bottom" data-delay="50" data-tooltip="SoundCloud"
+		 target="_blank"> 
+		 <i class="fa fa-soundcloud fa-2x" aria-hidden="true"></i></a> 
+		 </div> 
+		  
+		  <div class="col s1"> 
+		  <a href=http://steamcommunity.com/id/HiteshSahu/ class=" tooltipped white-text" data-position="bottom" data-delay="50" data-tooltip="Steam"
+		 target="_blank">
+		  <i class="fa fa-steam fa-2x" aria-hidden="true"></i></a> 
+		  </div>		
+		  
+		 <div class="col s1"> 
+		 <a href=https://www.quora.com/profile/Hitesh-Sahu-3 class=" tooltipped white-text" data-position="bottom" data-delay="50" data-tooltip="Quora"
+		 target="_blank">  
+		 <i class="fa fa-quora fa-2x" aria-hidden="true"></i></a> 
+		 </div> 
+  
+		 <div class="col s1"> 
+		 </a> <a  https://in.pinterest.com/hiteshsahu7 class=" tooltipped white-text" data-position="bottom" data-delay="50" data-tooltip="Pinterest"
+		 target="_blank"> 
+		 <i class="fa fa-pinterest-p fa-2x" aria-hidden="true"></i></a> 
+		 </div> 
+		 
+		  <div class="col s1"> 
+		  <a href=https://plus.google.com/u/0/+HiteshSahu7 class=" tooltipped white-text" data-position="bottom" data-delay="50" data-tooltip="Google plus"  target="_blank">
+		  <i class="fa fa-google-plus fa-2x" aria-hidden="true"></i></a> 
+		  </div> 
+		  
+		  <div class="col s1"> 
+		 <a href=https://www.facebook.com/HitsDroid class=" tooltipped white-text" data-position="bottom" data-delay="50" data-tooltip="Facebook" 
+		 target="_blank"> 
+		 <i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a> 
+		 </div> 
+		 
+		  
+		 <div class="col s1"> 
+		  <a href=https://twitter.com/HiteshSahu_ class=" tooltipped white-text" data-position="bottom" data-delay="50" data-tooltip="Twitter"  
+		  target="_blank">
+		  <i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a> 
+		  </div> 
+	
+    
+		</div>
+	</div> 
+
+		
+    <div class="footer-copyright">
+      <div class="container">
+      © 2017 <a class="brown-text text-lighten-3" href="http://hiteshsahu.com">Hitesh Sahu</a>- All Rights Reserved 
+      </div>
+    </div>
+  </footer>
+
+   <!--  Scripts-->
+   <!--Import jQuery before materialize.js-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+ 
+  <!-- Compiled and minified JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.1/js/materialize.min.js"></script>
+  
+  <script src="js/init.js"></script>
+</body>
+
+</html>
